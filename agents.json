@@ -1,0 +1,20 @@
+[
+  {
+    "name": "claude",
+    "session": "crucible_claude",
+    "role": "analyzer",
+    "system_skill": "claude"
+  },
+  {
+    "name": "gemini",
+    "session": "crucible_gemini",
+    "role": "debater",
+    "system_skill": "gemini"
+  },
+  {
+    "name": "codex",
+    "session": "crucible_codex",
+    "role": "debater",
+    "system_skill": "codex"
+  }
+]
