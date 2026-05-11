@@ -62,6 +62,19 @@ Crucible is the harness. The agents are yours.
 
 ---
 
+## Screenshots
+
+**Phase 1 — blind parallel openings (Claude, Gemini, Codex)**
+![Phase 1 openings](examples/screenshot-phase1-openings.png)
+
+**Meta-analysis, objection loop, and debate round**
+![Meta analysis and debate](examples/screenshot-meta-debate.png)
+
+**Final verdict**
+![Final verdict](examples/screenshot-final-verdict.png)
+
+---
+
 ## Example Output
 
 **Topic:** *Does a multi-agent AI debate system produce better insights than asking a single model?*
